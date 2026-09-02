@@ -1,0 +1,9 @@
+C:\Users\3714\Desktop\Admin_Portal\DEV\AdminPortalTemplate\src\main\java\bop\src\main\bean\HttpTextResult.java
+C:\Users\3714\Desktop\Admin_Portal\DEV\AdminPortalTemplate\src\main\java\bop\src\main\db\DBConnection.java
+C:\Users\3714\Desktop\Admin_Portal\DEV\AdminPortalTemplate\src\main\java\bop\src\main\bean\ActionResponse.java
+C:\Users\3714\Desktop\Admin_Portal\DEV\AdminPortalTemplate\src\main\java\bop\src\main\ServiceRestConfigration.java
+C:\Users\3714\Desktop\Admin_Portal\DEV\AdminPortalTemplate\src\main\java\bop\src\main\util\ConfigLoader.java
+C:\Users\3714\Desktop\Admin_Portal\DEV\AdminPortalTemplate\src\main\java\bop\src\main\util\HttpHelper.java
+C:\Users\3714\Desktop\Admin_Portal\DEV\AdminPortalTemplate\src\main\java\bop\src\main\AdminPortalTemplateServices.java
+C:\Users\3714\Desktop\Admin_Portal\DEV\AdminPortalTemplate\src\main\java\bop\src\main\bean\ActionRequest.java
+C:\Users\3714\Desktop\Admin_Portal\DEV\AdminPortalTemplate\src\main\java\bop\src\main\util\SystemVariable.java
